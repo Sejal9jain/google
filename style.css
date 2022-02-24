@@ -79,7 +79,14 @@ nav{
     position: relative;
     margin: 5px;
 }
+
 .apps{
+    padding: relative;
+    margin: 10px;
+    top: -6px;
+    color: #555;
+}
+.app{
     padding: relative;
     margin: 10px;
     top: -6px;
